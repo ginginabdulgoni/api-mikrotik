@@ -1,0 +1,24 @@
+{
+  "name": "api-mikrotik",
+  "version": "1.0.0",
+  "description": "Mikrotik Api by Gingin Abdul Goni",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginginabdulgoni/api-mikrotik.git"
+  },
+  "keywords": [
+    "Mikrotik",
+    "Api",
+    "PHP"
+  ],
+  "author": "Gingin Abdul Goni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ginginabdulgoni/api-mikrotik/issues"
+  },
+  "homepage": "https://github.com/ginginabdulgoni/api-mikrotik#readme"
+}
